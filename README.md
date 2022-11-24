@@ -4,6 +4,8 @@ Created with C++ and OpenGL
 
 ![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/Capture.gif)
 
+Loads GLTF files and create 3D models, which can be projected onto the screen with GLAD and GLFW.
+
 
 
 References:
