@@ -21,7 +21,7 @@
 #define SHOWSCALE 1.0f
 
 #define ORBITRAD 2.5
-const int BOIDCOUNT = 100;
+const int BOIDCOUNT = 10;
 
 static void glfwError(int id, const char *description)
 {
@@ -274,7 +274,7 @@ int main()
 		monkeyModel.Draw(lightShader, camera);
 		//b.DrawWireFrame(shaderProgram, camera);
 
-		bvh.showBoxes(shaderProgram, camera, -1);
+		bvh.showBoxes(shaderProgram, camera, 5);
 		
 	
 	
