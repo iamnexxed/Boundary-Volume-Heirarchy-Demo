@@ -6,7 +6,10 @@ Libraries used- GLAD, GLFW, GLM, JSON, STB
 
 ![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/Capture.gif)
 
-Can load GLTF models in 3D space, which can be projected onto the screen.
+Here's a Depth Level 5 Visualization
+
+![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/Capture2.gif)
+
 
 
 
