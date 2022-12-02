@@ -8,7 +8,7 @@ Libraries used- GLAD, GLFW, GLM, JSON, STB
 
 Here's a BVH Tree Depth Level 5 Visualization
 
-![](/Images/Capture2.gif)
+![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/Capture2.gif)
 
 
 
