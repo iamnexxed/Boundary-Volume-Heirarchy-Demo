@@ -21,7 +21,7 @@
 #define SHOWSCALE 1.0f
 
 #define ORBITRAD 2.5
-const int BOIDCOUNT = 10;
+const int BOIDCOUNT = 50;
 
 static void glfwError(int id, const char *description)
 {
