@@ -11,8 +11,9 @@ Here's a BVH Tree Depth Level 5 Visualization
 ![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/Capture2.gif)
 
 Other Examples
-![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/cube.png =500x)
-![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/pyramid.png =500x)
+![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/cube.png)
+
+![](https://github.com/iamnexxed/Boundary-Volume-Heirarchy-Demo/blob/main/Images/pyramid.png)
 
 
 References:
